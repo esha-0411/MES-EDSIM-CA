@@ -1,0 +1,3 @@
+MOV 30H, #55H
+MOV A, 30H
+END
